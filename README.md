@@ -53,6 +53,12 @@ If not, you can simply make the changes through the GitHub repository:
  - Make your changes, and add a little message at the bottom under **Propose file change**
  - Then, click the **Propose file change** button to submit your work
 
+## Translation tips
+
+ - Try to be consistent with punctuation. Typipcally titles don't have a full stop, whereas descriptions do
+ - Translate as you wish, but keep the (short) pattern names the same. Don't change `Simon` into `Bernard`, but feel free to translate `Simon Shirt` as `Chemise Simon`.
+ - When translating options, the [freesewing website](https://freesewing.org) has them all explained in case you need context.
+
 ## Questions / Suggestions / Coordination
 
 There's a dedicated [i18n chatroom on Gitter](https://gitter.im/freesewing/i18n)
