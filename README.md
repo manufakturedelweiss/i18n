@@ -1,4 +1,10 @@
-# Freesewing i18n (**i**nternationalisatio**n**)
+<a href="https://freesewing.org/"><img src="https://freesewing.org/img/logo/logo-black.svg" align="right" width=200 style="max-width: 20%;" /></a>
+
+# Freesewing i18n (internationalisation)
+
+[Freesewing](https://freesewing.org/) is an online platform to draft sewing patterns based on your measurements.
+
+> This is the i18n repository, which holds our internationalisation efforts.
 
 This repository holds translated strings for [freesewing](https://freesewing.org).
 
@@ -29,7 +35,7 @@ For example, copy the entire `xx` folder as a new folder called `pl` if you want
 
 If the folder for the language you want to work on is already there, you are good to go.
 
-## Keeping track of your work with the `# TODO`
+## Keeping track of your work with the `# TODO` comments
 
 In the best case scenario, you don't have to do an entire language on your own, and others can help.
 
@@ -64,4 +70,4 @@ If not, you can simply make the changes through the GitHub repository:
 There's a dedicated [i18n chatroom on Gitter](https://gitter.im/freesewing/i18n)
 for all translators and questions related to internationalisation.
 
-
+Let's meet there 😃
