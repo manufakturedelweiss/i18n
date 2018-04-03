@@ -1,4 +1,4 @@
-# Freesewing strings
+# Freesewing i18n (**i**nternationalisatio**n**)
 
 This repository holds translated strings for [freesewing](https://freesewing.org).
 
@@ -12,16 +12,24 @@ There are 3 files that need translating:
 
 ## How to help with translating
 
+You have the choice between joining an effort for a language that's already here, 
+or starting on a new language.
+
+### Adding a new language
+
 Every language should be in its own folder, named according to 
 the lowercase [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).  
 For example, `en` for English.
 
-If the folder of your language already exists, you can work on the files in that folder.
+To start working on a new language, copy the `xx` template folder. 
 
-If it does not exist, you can copy the `xx` template folder to a new folder. 
 For example, copy the entire `xx` folder as a new folder called `pl` if you want to work on Polish.
 
-## Keeping track of your work
+### Working on an existing language
+
+If the folder for the language you want to work on is already there, you are good to go.
+
+## Keeping track of your work with the `# TODO`
 
 In the best case scenario, you don't have to do an entire language on your own, and others can help.
 
@@ -30,6 +38,20 @@ When you're done translating a line, simply remove the `# TODO` comment to indic
 
 This allows other people to quickly skim a file for any remaining work. 
 It also allows us to check automatically how much translation work is done for a given language.
+
+## Working with GitHub
+
+You'll need a GitHub account to make changes here. No worries, they are free.
+
+If you're familiar with git/GitHub, you can fork the repository, and submit a pull request.
+If you like, we can give you write access to the repository so you can commit your changes directly. 
+Get in touch (see below) if you'd like that.
+
+If not, you can simply make the changes through the GitHub repository:
+
+ - Navigate to the file you want to edit, and click the pencil icon
+ - Make your changes, and add a little message at the bottom under **Propose file change**
+ - Then, click the **Propose file change** button to submit your work
 
 ## Questions / Suggestions / Coordination
 
