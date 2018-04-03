@@ -61,6 +61,13 @@ If not, you can simply make the changes through the GitHub repository:
 
 ## Translation tips
 
+Every line that needs translating is structured as such:
+
+```yaml
+  theKey: 'The value'
+```
+
+ - You only need to translate `The value`. You should not translate `theKey` as that is how we lookup the translation.
  - Try to be consistent with punctuation. Typipcally titles don't have a full stop, whereas descriptions do
  - Translate as you wish, but keep the (short) pattern names the same. Don't change `Simon` into `Bernard`, but feel free to translate `Simon Shirt` as `Chemise Simon`.
  - When translating options, the [freesewing website](https://freesewing.org) has them all explained in case you need context.
