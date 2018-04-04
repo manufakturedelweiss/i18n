@@ -1,15 +1,15 @@
 acrossBackFactor:
-    title: 'Across back factor' # TODO
-    description: 'Controls your across back width as a factor of your shoulder to shoulder measurement.' # TODO
+    title: 'Rugwijdte' 
+    description: 'Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat.Controls your across back width as a factor of your shoulder to shoulder measurement.' # TODO
 adjustmentRibbon:
     title: 'Adjustment Ribbon' # TODO
-    description: 'Add a ribbon to make the tie adjustable.' # TODO
+    description: 'Voeg een lintje toe om de das aanpaspaar te maken.' 
 armholeDepthFactor:
     title: 'Armhole depth factor' # TODO
-    description: 'Controls the depth of the armhole. Higher values make a deeper armhole.' # TODO
+    description: 'Controleert de diepte van het armsgat. Hoe hoger deze waarde, hoe dieper het armsgat.' 
 armholeDrop:
     title: 'Armhole drop' # TODO
-    description: 'Lower the armhole by this amount. Negative values will raise it.' # TODO
+    description: 'Verlaag het armsgat met deze hoeveelheid. Een negatieve waarde maakt het hoger.' 
 backDrop:
     title: 'Back drop' # TODO
     description: 'How much the back panels lower from your hips towards your center back. Negative values will raise the back.' # TODO
@@ -18,88 +18,88 @@ backInset:
     description: 'Amount the back armhole is cut deeper into the back panel.' # TODO
 backOpening:
     title: 'Back opening' # TODO
-    description: 'Opening at the center back closure.' # TODO
+    description: 'Opening aan de sluiting op de middenrug. Opening at the center back closure.' # TODO
 backRise:
     title: 'Back rise' # TODO
     description:
-        _default: 'The amount by which to raise the back.' # TODO
+        _default: 'De hoeveelheid hoogte die aan de rug wordt toegevoegd. The amount by which to raise the back.' # TODO
         bruce: 'Percentage by which the waist will be raised at the back.' # TODO
-        cathrin: 'How much the back panels rise from your arms to your center back.' # TODO
+        cathrin: 'Hoe ver de rugpanelen stijgen van je armen tot je middenrug. How much the back panels rise from your arms to your center back.' # TODO
 backScyeDart:
     title: 'Back scye dart' # TODO
     description: 'The amount to take out in a dart at the back of the armhole.' # TODO
 backVent:
     title: 'Back vent' # TODO
-    description: 'Do you want a central back vent, or none at all?' # TODO
+    description: 'Wil je een split in de middenrug, of helemaal geen? Do you want a central back vent, or none at all?' # TODO
 backVentLength:
-    title: 'Back vent length' # TODO
-    description: 'Controls the length of the back vent. Lower numbers result in a shorter vent.' # TODO
+    title: 'Lengte rugsplit' 
+    description: 'Controleert de lengte van de rugsplit. Hoe lager het cijfer, hoe korter de split.' 
 backlineBend:
     title: 'Back armhole shape' # TODO
-    description: 'Determines the shape/bend of the back of the armholes.' # TODO
+    description: 'Bepaalt de vorm/curve van de achterkant van het armsgat. Determines the shape/bend of the back of the armholes.' # TODO
 barrelcuffNarrowButton:
-    title: 'Cuff narrow button' # TODO
-    description: 'Whether to include a button to tie the cuffs more narrow. This option is only relevant for barrel cuffs.' # TODO
+    title: 'Extra knoop manchet' 
+    description: 'Of je al dan niet een knoop wil om de manchetten smaller te maken. Deze optie is enkel relevant bij klassieke manchetten (zonder manchetknopen).' 
 bicepsEase:
-    title: 'Biceps ease' # TODO
-    description: 'The amount of ease at your upper arm. Note that while we try to respect this, fitting the sleeve to the armhole takes precedence over respecting the exact amount of ease.' # TODO
+    title: 'Overwijdte biceps' 
+    description: 'De hoeveelheid overwijdte aan je bovenarm.The amount of ease at your upper arm. Note that while we try to respect this, fitting the sleeve to the armhole takes precedence over respecting the exact amount of ease.' # TODO
 bowLength:
-    title: 'Bow length' # TODO
-    description: 'The length of the wings of the bow tie.' # TODO
+    title: 'Lengte strik' 
+    description: 'De lengte van de vleugels van de vlinderdas.' 
 bowStyle:
-    title: 'Bow style' # TODO
-    description: 'The style of the bow.' # TODO
+    title: 'Stijl strik' # TODO
+    description: 'De stijl van de strik.' 
 bulge:
     title: Bulge # TODO
     description: 'Increase angle to create more room in the front pouch.' # TODO
 buttonPlacketStyle:
-    title: 'Button placket style' # TODO
-    description: 'Style of the button placket.' # TODO
+    title: 'Stijl knopenpat' 
+    description: 'De stijl van het knopenpat.' 
 buttonPlacketType:
-    title: 'Button placket type' # TODO
-    description: 'Type of the button placket.' # TODO
+    title: 'Type knopenpat' 
+    description: 'Het type knopenpat.' 
 buttonPlacketWidth:
-    title: 'Button placket width' # TODO
-    description: 'Width of the button placket.' # TODO
+    title: 'Breedte knopenpat' 
+    description: 'De breedte van het knopenpat.' 
 buttonfreeLength:
     title: 'Button free length' # TODO
-    description: 'How much of the bottom of the front closure to keep button-free.' # TODO
+    description: 'Hoe lang het stuk zonder knopen onderaan de sluiting moet zijn.' 
 buttonholePlacketFoldWidth:
-    title: 'Buttonhole placket fold width' # TODO
-    description: 'Width of the buttonhole placket fold.' # TODO
+    title: 'Breedte vouw knoopsgatenpat' 
+    description: 'De breedte van de vouw in het knoopsgatenpat.' 
 buttonholePlacketStyle:
-    title: 'Buttonhole placket style' # TODO
-    description: 'Style of the buttonhole placket.' # TODO
+    title: 'Stijl knoopsgatenpat' 
+    description: 'De stijl van het knoopsgatenpat.' 
 buttonholePlacketType:
-    title: 'Buttonhole placket type' # TODO
-    description: 'Type of the buttonhole placket.' # TODO
+    title: 'Type knoopsgatenpat' 
+    description: 'Het type knoopsgatenpat.' 
 buttonholePlacketWidth:
-    title: 'Buttonhole placket width' # TODO
-    description: 'Width of the butonhole placket.' # TODO
+    title: 'Breedte knoopsgatenpat' 
+    description: 'De breedte van het knoopsgatenpat.' 
 buttons:
-    title: 'Number of buttons' # TODO
-    description: 'The number of buttons on the front closure.' # TODO
+    title: 'Aantal knopen' 
+    description: 'Het aantal knopen op de sluiting vooraan.' 
 centerBackDart:
-    title: 'Center back dart' # TODO
-    description: 'The amount to take out in a dart at the top of the center back.' # TODO
+    title: 'Middenrugneep' 
+    description: 'De hoeveelheid die met een neep uit de bovenkant van de middenrug genomen wordt.' 
 centerFrontHemDrop:
     title: 'Center front hem drop' # TODO
     description: 'The hem at the front is lowered by this ratio of your neck to hips vertical measurements.' # TODO
 chestEase:
-    title: 'Chest ease' # TODO
-    description: 'The amount of ease at your chest.' # TODO
+    title: 'Overwijdte borst' 
+    description: 'De hoeveelheid overwijdte aan je borst.' 
 chestPocketAngle:
-    title: 'Chest pocket angle' # TODO
-    description: 'The angle of the chest pocket.' # TODO
+    title: 'Hoek borstzak' 
+    description: 'De hoek van de borstzak.' 
 chestPocketPlacement:
-    title: 'Chest pocket placement' # TODO
+    title: 'Plaats borstzak' # TODO
     description: 'Location of the chest pocket as a proportion a quarter of your chest circumference. Higher numbers move it more to the side.' # TODO
 chestPocketWeltSize:
-    title: 'Chest pocket welt height' # TODO
-    description: 'The height of the chest pocket welt.' # TODO
+    title: 'Hoogte gepaspelde borstzak' 
+    description: 'De hoogte van de gepaspelde borstzak.' 
 chestPocketWidth:
-    title: 'Chest pocket width' # TODO
-    description: 'The width of the chest pocket, as a factor of your chest circumference.' # TODO
+    title: 'Breedte borstzak' 
+    description: 'De breedte van de borstzak, als een factor van je borstomtrek.' 
 chestShaping:
     title: 'Chest shaping' # TODO
     description: 'The vertical amount to slash & spread the upper front panel to shape the chest, as a factor of your chest circumference.' # TODO
