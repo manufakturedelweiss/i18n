@@ -1,25 +1,25 @@
-bicepsCircumference: 'Biceps circumference' # TODO
-bustSpan: 'Bust span' # TODO
-centerBackNeckToWaist: 'Centerback neck to waist' # TODO
-chestCircumference: 'Chest circumference' # TODO
-headCircumference: 'Head circumference' # TODO
-highBust: 'High bust' # TODO
-highPointShoulderToBust: 'High point shoulder to bust' # TODO
-hipsCircumference: 'Hips circumference' # TODO
-hipsToUpperLeg: 'Hips to upper leg' # TODO
-inseam: 'Inseam' # TODO
-naturalWaist: 'Natural waist' # TODO
-naturalWaistToFloor: 'Natural waist to floor' # TODO
-naturalWaistToHip: 'Natural waist to hip' # TODO
-naturalWaistToSeat: 'Natural waist to seat' # TODO
-naturalWaistToUnderbust: 'Natural waist to underbust' # TODO
-neckCircumference: 'Neck circumference' # TODO
-seatCircumference: 'Seat circumference' # TODO
-seatDepth: 'Seat depth' # TODO
-shoulderSlope: 'Shoulder slope' # TODO
-shoulderToElbow: 'Shoulder to elbow' # TODO
-shoulderToShoulder: 'Shoulder to shoulder' # TODO
-shoulderToWrist: 'Shoulder to wrist' # TODO
-underBust: 'Underbust' # TODO
-upperLegCircumference: 'Upper leg circumference' # TODO
-wristCircumference: 'Wrist circumference' # TODO
+bicepsCircumference: 'Omkrins overarm'
+bustSpan: 'Bystevidde'
+centerBackNeckToWaist: 'Nakke til livlinje'
+chestCircumference: 'Overvidde'
+headCircumference: 'Hovudomkrins'
+highBust: 'Høg overvidde'
+highPointShoulderToBust: 'Skulder til bystelinje'
+hipsCircumference: 'Hoftevidde'
+hipsToUpperLeg: 'Hoftelinje til lårlinje'
+inseam: 'Beinlengde'
+naturalWaist: 'Livmål'
+naturalWaistToFloor: 'Livlinje til golv'
+naturalWaistToHip: 'Livlinje til hoftelinje'
+naturalWaistToSeat: 'Livlinje til sete'
+naturalWaistToUnderbust: 'Livlinje til under byste'
+neckCircumference: 'Halsvidde'
+seatCircumference: 'Setevidde'
+seatDepth: 'Sittehøgde'
+shoulderSlope: 'Skulderhelling'
+shoulderToElbow: 'Skulder til alboge'
+shoulderToShoulder: 'Skulder til skulder'
+shoulderToWrist: 'Skulder til handledd'
+underBust: 'Omkrins under byste'
+upperLegCircumference: 'Lårvidde'
+wristCircumference: 'Handleddvidde'
