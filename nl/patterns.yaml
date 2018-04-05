@@ -1,57 +1,57 @@
 aaron:
-    title: 'Aaron A-Shirt' # TODO
-    description: 'Aaron is an athletic shirt or tank top.' # TODO
+    title: 'Aaron Onderhemd' 
+    description: 'Aaron is een sportief mouwloos hemdje of onderhemd.' 
 benjamin:
-    title: 'Benjamin Bow Tie' # TODO
-    description: 'Benjamin is a bow tie pattern with four different shape options.' # TODO
+    title: 'Benjamin Vlinderdas' 
+    description: 'Benjamin is een vlinderdas met vier verschillende mogelijke vormen.' 
 bent:
-    title: 'Bent Body Block' # TODO
-    description: 'This two-part sleeve block is the basis of our coat and jacket patterns.' # TODO
+    title: 'Bent Basispatroon' 
+    description: 'Dit patroon met tweedelige mouw is de basis voor onze jassen- en jasjespatronen.' 
 brian:
-    title: 'Brian Body Block' # TODO
-    description: 'Brian is a basic body block for men.' # TODO
+    title: 'Brian Basispatroon' 
+    description: 'Brian is een basispatroon voor mannen.' 
 bruce:
-    title: 'Bruce Boxer Briefs' # TODO
-    description: 'Bruce are comfortable yet stylish boxer briefs.' # TODO
+    title: 'Bruce Boxer' 
+    description: 'Bruce is een boxershort die zowel comfortabel als stylish is.' 
 carlita:
-    title: 'Carlita Coat' # TODO
-    description: 'The womenswear version of our Carlton coat, aka Sherlock Holmes coat.' # TODO
+    title: 'Carlita Jas' 
+    description: 'De vrouwenversie van onze Carlton jas, ofwel de Sherlock Holmes jas.' 
 carlton:
-    title: 'Carlton Coat' # TODO
-    description: 'For Sherlock Holmes cosplay, or just a really nice coat.' # TODO
+    title: 'Carlton Jas' 
+    description: 'Voor als je Sherlock Holmes wil spelen, of gewoon een heel mooie jas zoekt.' 
 cathrin:
-    title: 'Cathrin Corset' # TODO
-    description: 'Cathrin is an underbust corset or waist trainer.' # TODO
+    title: 'Cathrin Korset' 
+    description: 'Cathrin is een underbust korset of waist trainer.' 
 florent:
-    title: 'Florent Flat Cap' # TODO
-    description: 'Florent is a flat cap, a rounded cap with a small stiff brim in front.' # TODO
+    title: 'Florent Pet' 
+    description: 'Florent is een klassieke platte pet, rond bovenaan met een kleine klep vooraan.' 
 huey:
-    title: 'Huey Hoodie' # TODO
-    description: 'Huey is a zip-up hoodie with optional front pockets.' # TODO
+    title: 'Huey Hoodie' 
+    description: 'Huey is een trui met kap met een rits, en optionele voorzakken.' 
 hugo:
-    title: 'Hugo Hoodie' # TODO
-    description: 'Hugo is a hooded jumper with raglan sleeves.' # TODO
+    title: 'Hugo Hoodie' 
+    description: 'Hugo is een trui met kap en een raglanmouw.' 
 jaeger:
-    title: 'Jaeger Jacket' # TODO
-    description: 'Jeager is a sport coat style jacket with two buttons and patch pockets.' # TODO
+    title: 'Jaeger Jasje' 
+    description: 'Jaeger is een sportief jasje met twee knopen en opgestikte zakken.' 
 simon:
-    title: 'Simon Shirt' # TODO
-    description: 'Simon is a highly adaptable shirt pattern for men.' # TODO
+    title: 'Simon Hemd' 
+    description: 'Simon is een enorm veelzijdig patroon voor een herenhemd.' 
 sven:
-    title: 'Sven Sweatshirt' # TODO
-    description: 'Sven is a straightforward sweater.' # TODO
+    title: 'Sven Sweater' 
+    description: 'Sven is een no-nonsense basic trui.' 
 tamiko:
-    title: 'Tamiko Top' # TODO
-    description: 'Tamiko is a zero-waste top.' # TODO
+    title: 'Tamiko Top' 
+    description: 'Tamiko is een top die geen stof verspilt.' 
 theo:
-    title: 'Theo trousers' # TODO
-    description: 'Theo is Theodore with a more slim cut.' # TODO
+    title: 'Theo Broek' 
+    description: 'Theo is Theodore, maar dan smaller.' 
 theodore:
-    title: 'Theodore trousers' # TODO
-    description: 'Thedore are classic trousers by the (Aldrich) book.' # TODO
+    title: 'Theodore Broek' 
+    description: 'Theodore is een klassieke broek volgens het boekje (van Aldrich).' 
 trayvon:
-    title: 'Trayvon Tie' # TODO
-    description: 'Trayvon is a tie that cuts no corners for a professional result.' # TODO
+    title: 'Trayvon Das' 
+    description: 'Trayvon is een das zoals het hoort, voor een professioneel resultaat.' 
 wahid:
-    title: 'Wahid Waistcoat' # TODO
-    description: 'Wahid is a classic fitted waistcoat.' # TODO
+    title: 'Wahid Gilet' # TODO
+    description: 'Wahid is een klassiek aansluitend gilet.' 
