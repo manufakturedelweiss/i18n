@@ -1,8 +1,8 @@
 acrossBackFactor:
     title: 'Rugwijdte' 
-    description: 'Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat.Controls your across back width as a factor of your shoulder to shoulder measurement.' # TODO
+    description: 'Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat.' 
 adjustmentRibbon:
-    title: 'Adjustment Ribbon' # TODO
+    title: 'Aanpaslintje' 
     description: 'Voeg een lintje toe om de das aanpaspaar te maken.' 
 armholeDepthFactor:
     title: 'Diepte armsgat factor' 
@@ -11,7 +11,7 @@ armholeDrop:
     title: 'Armsgat verlagen/verhogen' 
     description: 'Verlaag het armsgat met deze hoeveelheid. Een negatieve waarde maakt het hoger.' 
 backDrop:
-    title: 'Back drop' # TODO
+    title: 'Verlaging rug' 
     description: 'Hoeveel lager de rugpanden worden vanaf de heupen tot de middenrug. Een negatieve waarde maakt ze hoger.' 
 backInset:
     title: 'Inzet achter' 
@@ -20,7 +20,7 @@ backOpening:
     title: 'Rugopening' 
     description: 'Opening aan de sluiting op de middenrug. ' 
 backRise:
-    title: 'Back rise' # TODO
+    title: 'Hoogte achter' 
     description:
         _default: 'De hoeveelheid hoogte die aan de rug wordt toegevoegd. ' 
         bruce: 'Het percentage waarmee de taille verhoogd wordt aan de rug.' 
@@ -33,7 +33,7 @@ backVent:
     description: 'Wil je een split in de middenrug, of helemaal geen? ' 
 backVentLength:
     title: 'Lengte rugsplit' 
-    description: 'Controleert de lengte van de rugsplit. Hoe lager het cijfer, hoe korter de split.' 
+    description: 'Controleert de lengte van het rugsplit. Hoe lager het cijfer, hoe korter het split.' 
 backlineBend:
     title: 'Vorm armsgat achter' 
     description: 'Bepaalt de vorm/curve van de achterkant van het armsgat. ' 
@@ -47,10 +47,10 @@ bowLength:
     title: 'Lengte strik' 
     description: 'De lengte van de vleugels van de vlinderdas.' 
 bowStyle:
-    title: 'Stijl strik' # TODO
+    title: 'Stijl strik' 
     description: 'De stijl van de strik.' 
 bulge:
-    title: Bulge # TODO
+    title: 'Kruisstuk' 
     description: 'Maak de hoek groter voor meer ruimte in het kruisstuk.' 
 buttonPlacketStyle:
     title: 'Stijl knopenpat' 
@@ -83,7 +83,7 @@ centerBackDart:
     title: 'Middenrugneep' 
     description: 'De hoeveelheid die met een neep uit de bovenkant van de middenrug genomen wordt.' 
 centerFrontHemDrop:
-    title: 'Center front hem drop' # TODO
+    title: 'Verlaging zoom middenvoor' 
     description: 'De zoom vooraan wordt verlaagd door deze ratio van de lengtemaat van je nek tot je heupen.' 
 chestEase:
     title: 'Overwijdte borst' 
@@ -101,7 +101,7 @@ chestPocketWidth:
     title: 'Breedte borstzak' 
     description: 'De breedte van de borstzak, als een factor van je borstomtrek.' 
 chestShaping:
-    title: 'Chest shaping' # TODO
+    title: 'Vormgeving borst' 
     description: 'De hoeveelheid waarmee het bovenste voorpand opengespreid wordt om de borstkas vorm te geven, als een factor van je borstomtrek.' 
 collarAngle:
     title: 'Hoekjes kraag' 
@@ -113,25 +113,25 @@ collarEase:
     title: 'Overwijdte kraag' 
     description: 'De hoeveelheid overwijdte rond je nek.' 
 collarFlare:
-    title: 'Collar flare' # TODO
-    description: 'The flare of the collar tips.' # TODO
+    title: 'Spreiding kraag' 
+    description: 'Hoe ver de punten van de kraag spreiden.' 
 collarGap:
-    title: 'Collar gap' # TODO
+    title: 'Afstand kraag' 
     description: 'De open ruimte tussen de uiteindes van de kraag.' 
 collarHeight:
     title: 'Hoogte kraag' 
     description: 'Dit is de hoogte van de kraag achteraan de nek en kan nooit minder zijn dan twee keer de hoogte van de kraag tot aan de breuklijn.' 
 collarNotchAngle:
-    title: 'Collar notch angle' # TODO
-    description: 'De hoek van de Angle of the collar notch.' # TODO
+    title: 'Hoek inkeping kraag' 
+    description: 'De hoek van de inkeping gevormd door de kraag en revers.' 
 collarNotchDepth:
-    title: 'Collar notch depth' # TODO
-    description: 'Depth of the collar notch.' # TODO
+    title: 'Diepte inkeping kraag' 
+    description: 'De diepte van de inkeping gevormd door de kraag en revers.' 
 collarNotchReturn:
-    title: 'Collar notch return' # TODO
-    description: 'Controls the length of the upper notch side. 100% = same as notch depth.' # TODO
+    title: 'Lengte inkeping kraag' 
+    description: 'Bepaalt de lengte van het bovenste stuk van de inkeping in de kraag. 100% = even lang als het onderste stuk.' 
 collarRoll:
-    title: 'Collar roll' # TODO
+    title: 'Omval kraag' 
     description: 'Hoeveel groter de bovenkraag is dan de onderkraag.' 
 collarStandBend:
     title: 'Kromming staander' 
@@ -146,7 +146,7 @@ cuffButtonRows:
     title: 'Rijen knopen op manchet' 
     description: 'Of je een enkele of dubbele rij knopen op de manchet wil. Deze optie is enkel relevant voor klassieke manchetten.' 
 cuffDrape:
-    title: 'Cuff drape' # TODO
+    title: 'Verschil mouw/manchet' 
     description: 'Hoeveel wijder de mouw is dan de manchet op het punt waar ze wordt aangezet.' 
 cuffEase:
     title: 'Overwijdte manchet' 
@@ -161,16 +161,16 @@ elasticWidth:
     title: 'Breedte elastiek' 
     description: 'De breedte van het elastiek dat je van plan bent te gebruiken.' 
 endStyle:
-    title: 'End style' # TODO
-    description: 'The style of the end of the tie.' # TODO
+    title: 'Stijl punt' 
+    description: 'Het soort punt dat de das heeft.' 
 extraTopButton:
     title: 'Axtra knoop bovenaan' 
     description: 'Of je al dan niet een extra knoop bovenaan de sluiting wil.' 
 frontCutawayAngle:
-    title: 'Hoek opening Front opening bottom cutaway angle' # TODO
+    title: 'Hoek weggeknipte opening onder' 
     description: 'In welke hoek wil je dat de voorpanden openen vanaf de onderste knoop.' 
 frontCutawayStart:
-    title: 'Front opening bottom cutaway start' # TODO
+    title: 'Start weggeknipte opening onder' 
     description: 'Hoe ver onder de onderste knoop mogen de voorpanden beginnen openen.' 
 frontDartPlacement:
     title: 'Plaatsing nepen vooraan' 
@@ -198,7 +198,7 @@ frontRise:
     title: 'Hoogte voorpand' 
     description: 'De hoogte van de panelen middenvoor, tussen je borsten. Een negatieve waarde maakte ze lager.' 
 frontScyeDart:
-    title: 'Neep armsgat voor' # TODO
+    title: 'Neep armsgat voor' 
     description: 'De hoeveelheid die verwijderd wordt met een neep aan de voorkant van het armsgat.' 
 frontStyle:
     title: 'Stijl halslijn' 
@@ -228,7 +228,7 @@ hipsEase:
     description: 'De hoeveelheid overwijdte aan je heupen.' 
 hipsReductionRatioBack:
     title: 'Reductie heupen: ratio achter' 
-    description: 'Proportion of the hips to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
+    description: 'Hoeveel de heupen ingenomen worden door de vorm van het achterpand. Heeft ook impact op de vorm van het zijpand.' 
 knotWidth:
     title: 'Breedte knoop' 
     description: 'De breedte van de das aan de knoop/in het midden.' 
@@ -239,7 +239,7 @@ legBonus:
     title: 'Bonus beenlengte' 
     description: 'Extra lengte om aan de benen toe te voegen.' 
 legStretch:
-    title: 'Leg stretch' # TODO
+    title: 'Stretch pijp' 
     description: 'Voor het beste resultaat wil je de pijp wat strakker om je been. Zeg nee tegen geflodder!' 
 lengthBonus:
     title: 'Bonus lengte' 
@@ -278,7 +278,7 @@ ribbingWidth:
     title: 'Breedte boord' 
     description: 'De breedte van de boord die je wil gebruiken.' 
 rise:
-    title: 'Hoogte' # TODO
+    title: 'Hoogte' 
     description: 'Hoeveelheid waarmee de taille verhoogd wordt. Een negatieve waarde zal de taille verlagen.' 
 rollLineCollarHeight:
     title: 'Hoogte breuklijn kraag' 
@@ -294,7 +294,7 @@ shoulderInset:
     description: 'Afstand van de punt van de schouder tot waar het armsgat van het gilet op de schouder valt.' 
 shoulderSlopeReduction:
     title: 'Reductie helling schouder' 
-    description: 'De hoeveelheid waarmee de helling van de schouder verminder wordt om ruimte te maken voor epauletten.' 
+    description: 'De hoeveelheid waarmee de helling van de schouder verminderd wordt om ruimte te maken voor epauletten.' 
 shoulderStrapPlacement:
     title: 'Plaatsing schouderbandjes' 
     description: 'Bepaalt of de schouderbandjes dichter bij de nek (lager cijfer) of dichter bij de schouder (hoger cijfer) geplaatst worden.' 
@@ -302,8 +302,8 @@ shoulderStrapWidth:
     title: 'Breedte schouderbandjes' 
     description: 'De breedte van de schouderbandjes.' 
 sideFrontPlacement:
-    title: 'Front side boundary placement' # TODO
-    description: 'Location of the front/side boundary as a proportion of your chest circumference. Higher numbers make a wider side panel.' # TODO
+    title: 'Plaatsing naden zijpand' 
+    description: 'Locatie van de naad tussen voor- en zijpand in verhouding met je borstomtrek. Een hoger cijfer zorgt voor een breder zijpand.' 
 sleeveBend:
     title: 'Kromming mouw' 
     description: 'Hoeveel wil je dat de mouw buigt aan de elleboog.' 
@@ -344,10 +344,10 @@ waistReduction:
     description: 'Hoeveel smaller je wil dat het korset je taille maakt.' 
 waistReductionRatioBack:
     title: 'Reductie taille: ratio achter' 
-    description: 'Proportion of the waist to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
+    description: 'Hoeveel de taille ingenomen wordt door de vorm van het achterpand. Heeft ook impact op de vorm van het zijpand.' 
 waistReductionRatioFront:
     title: 'Reductie taille: ratio voor' 
-    description: 'Proportion of the waist to be reduced in the front dart. Will also impact side panel shaping.' # TODO
+    description: 'Hoeveel de taille ingenomen wordt door de neep in het voorpand. Heeft impact op de vorm van het zijpand.' 
 waistbandWidth:
     title: 'Breedte tailleband' 
     description: 'De breedte van de tailleband.' 
