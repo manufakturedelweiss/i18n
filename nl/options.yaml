@@ -227,7 +227,7 @@ hipsEase:
     title: 'Overwijdte heup'
     description: 'De hoeveelheid overwijdte aan je heupen.' 
 hipsReductionRatioBack:
-    title: 'Hips reduction: back ratio' # TODO
+    title: 'Reductie heupen: ratio achter' 
     description: 'Proportion of the hips to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
 knotWidth:
     title: 'Breedte knoop' 
@@ -278,7 +278,7 @@ ribbingWidth:
     title: 'Breedte boord' 
     description: 'De breedte van de boord die je wil gebruiken.' 
 rise:
-    title: Hoogte # TODO
+    title: 'Hoogte' # TODO
     description: 'Hoeveelheid waarmee de taille verhoogd wordt. Een negatieve waarde zal de taille verlagen.' 
 rollLineCollarHeight:
     title: 'Hoogte breuklijn kraag' 
@@ -311,46 +311,46 @@ sleeveLengthBonus:
     title: 'Bonus mouwlengte' 
     description: 'De hoeveelheid waarmee de mouw verlengd wordt. Een negatieve waarde zal ze korter maken.' 
 sleevePlacketLength:
-    title: 'Sleeve placket length' # TODO
-    description: 'The length of the sleeve placket.' # TODO
+    title: 'Lengte mouwsplit' 
+    description: 'De lengte van het mouwsplit.' 
 sleevePlacketWidth:
-    title: 'Sleeve placket width' # TODO
-    description: 'The width of the sleeve placket.' # TODO
+    title: 'Breedte mouwsplit' 
+    description: 'De breedte van het mouwsplit.' 
 sleevecapEase:
-    title: 'Sleevecap ease' # TODO
-    description: 'The amount by which the sleevecap seam is longer than the armhole seam.' # TODO
+    title: 'Extra ruimte mouwkop' 
+    description: 'Hoeveel langer de naad van de mouwkop is dan de naad van het armsgat.' 
 sleevecapHeightFactor:
-    title: 'Sleevecap height factor' # TODO
-    description: 'Controls the height of the sleevecap. A higher value results in a higher and more narrow sleevecap.' # TODO
+    title: 'Hoogte mouwkop factor' 
+    description: 'Controleert de hoogte van de mouwkop. Een hogere waarde heeft als resultaat een hogere en smallere mouwkop.' 
 splitYoke:
-    title: 'Split yoke' # TODO
-    description: 'Whether to draft a split or regular yoke.' # TODO
+    title: 'Tweedelige schouderpas' 
+    description: 'Of je een tweedelige of gewone schouderpas wil.' 
 stretch:
-    title: Stretch # TODO
-    description: 'The amount of negative ease.' # TODO
+    title: Stretch 
+    description: 'Hoeveel kleiner de omtrek is dan je lichaamsmaten. In andere woorden, hoe strak alles zit.' 
 stretchFactor:
-    title: Stretch # TODO
-    description: 'Determines the horizontal negative ease.' # TODO
+    title: Stretch 
+    description: 'Bepaalt hoeveel kleiner de horizontale omtrek is dan je lichaamsmaten. In andere woorden, hoe strak alles zit.' 
 tipWidth:
-    title: 'Tip width' # TODO
+    title: 'Breedte punt' 
     description:
-        _default: 'The width of the wings of the bow tie at the tip.' # TODO
-        trayvon: 'The width of the tie at the tip.' # TODO
+        _default: 'De breedte van de puntjes van de vlinderdas.' 
+        trayvon: 'De breedte van de punt van de das.' 
 waistEase:
-    title: 'Waist ease' # TODO
-    description: 'The amount of ease at your (natural) waist.' # TODO
+    title: 'Overwijdte taille' 
+    description: 'De hoeveelheid extra ruimte aan je (natuurlijke) taille.' 
 waistReduction:
-    title: 'Waist reduction' # TODO
-    description: 'The amount by which you want the corset to pinch your waist.' # TODO
+    title: 'Reductie taille' 
+    description: 'Hoeveel smaller je wil dat het korset je taille maakt.' 
 waistReductionRatioBack:
-    title: 'Waist reduction: back ratio' # TODO
+    title: 'Reductie taille: ratio achter' 
     description: 'Proportion of the waist to be reduced in back panel shaping. Will also impact side panel shaping.' # TODO
 waistReductionRatioFront:
-    title: 'Waist reduction: front ratio' # TODO
+    title: 'Reductie taille: ratio voor' 
     description: 'Proportion of the waist to be reduced in the front dart. Will also impact side panel shaping.' # TODO
 waistbandWidth:
-    title: 'Waistband width' # TODO
-    description: 'The width of the waistband.' # TODO
+    title: 'Breedte tailleband' 
+    description: 'De breedte van de tailleband.' 
 yokeDart:
-    title: 'Yoke dart' # TODO
-    description: 'Whether to include a dart at the sides of the yoke to fit a rounder back.' # TODO
+    title: 'Neep schouderpas' 
+    description: 'Of je een neep aan de zijkanten van de schouderpas wil om beter te passen voor een ronde rug.' 
