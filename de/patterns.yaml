@@ -35,23 +35,23 @@ jaeger:
     title: 'Jaeger Jacket' # TODO
     description: 'Jeager is a sport coat style jacket with two buttons and patch pockets.' # TODO
 simon:
-    title: 'Simon Shirt' # TODO
-    description: 'Simon is a highly adaptable shirt pattern for men.' # TODO
+    title: 'Hemd Simon'
+    description: 'Simon ist ein sehr anpassungsfähiger Hemdenschnitt für Männer.'
 sven:
     title: 'Sven Sweatshirt' # TODO
     description: 'Sven is a straightforward sweater.' # TODO
 tamiko:
-    title: 'Tamiko Top' # TODO
-    description: 'Tamiko is a zero-waste top.' # TODO
+    title: 'Tamiko Top'
+    description: 'Tamiko ist ein Zero Waste Top.'
 theo:
-    title: 'Theo trousers' # TODO
-    description: 'Theo is Theodore with a more slim cut.' # TODO
+    title: 'Hose Theo'
+    description: 'Theo ist Theodore - mit einem schmaleren Schnitt.'
 theodore:
-    title: 'Theodore trousers' # TODO
-    description: 'Thedore are classic trousers by the (Aldrich) book.' # TODO
+    title: 'Hose Theodore' 
+    description: 'Theodore ist eine klassische Hose nach dem (Aldrich) Lehrbuch.'
 trayvon:
-    title: 'Trayvon Tie' # TODO
-    description: 'Trayvon is a tie that cuts no corners for a professional result.' # TODO
+    title: 'Krawatte Trayvon'
+    description: 'Trayvon ist eine Krawatte, die keine Abkürzungen für ein professionelles Ergebnis nimmt. 
 wahid:
-    title: 'Wahid Waistcoat' # TODO
-    description: 'Wahid is a classic fitted waistcoat.' # TODO
+    title: 'Weste Wahid'
+    description: 'Wahid ist eine klassische taillierte Weste.' 
