@@ -1,45 +1,45 @@
 aaron:
-    title: 'Aaron A-Shirt' # TODO
-    description: 'Aaron is an athletic shirt or tank top.' # TODO
+    title: 'Shirt Aaron'
+    description: 'Aaron ist ein sportliches Shirt oder ein Tank Top.'
 benjamin:
-    title: 'Benjamin Bow Tie' # TODO
-    description: 'Benjamin is a bow tie pattern with four different shape options.' # TODO
+    title: 'Schleife Benjamin'
+    description: 'Benjamin ist eine Schleife - oder Fliege - mit vier unterschiedlichen Formoptionen.'
 bent:
-    title: 'Bent Body Block' # TODO
-    description: 'This two-part sleeve block is the basis of our coat and jacket patterns.' # TODO
+    title: 'Grundschnitt Bent'
+    description: 'Dieser zweiteilige Armschnitt ist die Grundlage für insere Mäntel- und Jackenschnitte.'
 brian:
-    title: 'Brian Body Block' # TODO
-    description: 'Brian is a basic body block for men.' # TODO
+    title: 'Grundschnitt Brian' 
+    description: 'Brian ist eine Grundschnitt für Männer.' 
 bruce:
-    title: 'Bruce Boxer Briefs' # TODO
-    description: 'Bruce are comfortable yet stylish boxer briefs.' # TODO
+    title: 'Retroshorts Bruce' # TODO
+    description: 'Bruce sind bequeme und stylische Retroshorts.'
 carlita:
-    title: 'Carlita Coat' # TODO
-    description: 'The womenswear version of our Carlton coat, aka Sherlock Holmes coat.' # TODO
+    title: 'Mantel Carlita' 
+    description: 'Die Damenversion unseres Carlton-Mantels, aka Sherlock Holmes Mantel.'
 carlton:
-    title: 'Carlton Coat' # TODO
-    description: 'For Sherlock Holmes cosplay, or just a really nice coat.' # TODO
+    title: 'Mantel Carlton Coat' 
+    description: 'Für Sherlock Holmes Cosplay, or nur ein wirklich hübscher Mantel.'
 cathrin:
-    title: 'Cathrin Corset' # TODO
-    description: 'Cathrin is an underbust corset or waist trainer.' # TODO
+    title: 'Korsett Cathrin'
+    description: 'Cathrin ist ein Unterbrustkorsett oder Taillentrainer.'
 florent:
-    title: 'Florent Flat Cap' # TODO
-    description: 'Florent is a flat cap, a rounded cap with a small stiff brim in front.' # TODO
+    title: 'Schiebermütze Florent'
+    description: 'Florent ist eine abgerundete Schiebermütze mit einem kleinen festen Schild an der Vorderseite.'
 huey:
-    title: 'Huey Hoodie' # TODO
-    description: 'Huey is a zip-up hoodie with optional front pockets.' # TODO
+    title: 'Hoodie Huey'
+    description: 'Huey ist ein Hoodie mit Reißverschluss und mit optionalen Taschen auf der Vorderseite.'
 hugo:
-    title: 'Hugo Hoodie' # TODO
-    description: 'Hugo is a hooded jumper with raglan sleeves.' # TODO
+    title: 'Hoodie Hugo'
+    description: 'Hugo ist ein Kapuzensweatshirt mit Raglanärmeln.'
 jaeger:
-    title: 'Jaeger Jacket' # TODO
-    description: 'Jeager is a sport coat style jacket with two buttons and patch pockets.' # TODO
+    title: 'Sakko Jaeger'
+    description: 'Jeager ist ein sportliches Sakko mit zwei Knöpfen und aufgesetzten Taschen.'
 simon:
     title: 'Hemd Simon'
     description: 'Simon ist ein sehr anpassungsfähiger Hemdenschnitt für Männer.'
 sven:
-    title: 'Sven Sweatshirt' # TODO
-    description: 'Sven is a straightforward sweater.' # TODO
+    title: 'Sweatshirt Sven'
+    description: 'Sven ist ein geradliniges Sweatshirt.'
 tamiko:
     title: 'Tamiko Top'
     description: 'Tamiko ist ein Zero Waste Top.'
